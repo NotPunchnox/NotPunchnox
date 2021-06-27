@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <h1>hello world</h1>
     <h3>My programming languages and tools:
         <h3 />
@@ -17,11 +17,11 @@
 
 
 
-<div align="center">
+<div align="left">
     <h3> my statistics ( wakatime )</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" />
 </div>
 
 
