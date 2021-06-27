@@ -19,7 +19,7 @@
 
 
 ### my statistics ( wakatime )
-<div align="left">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" />
