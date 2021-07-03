@@ -1,27 +1,43 @@
-<div align="left">
-    <h1>hello world</h1>
-    <h3>My programming languages and tools:
-        <h3 />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" />
-</div>
+# hey 👋
 
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/796889023880495105.png">
+</p><br/><br/><br/>
 
-<div align="left">
-    <h3> my statistics ( wakatime )</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true" /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" />
+<h1 align="center">LANGUAGE</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&nbsp;
+</p>
+
+
+<h1 align="center">FRAMEWORK</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"></code>&nbsp;
+</p>
+
+<h1 align="center">TOOLS</h1>
+<p align="center">
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>&nbsp;
+</p>
+
+
+<div align="center">
+    <h3> my statistics</h3>
+    <img src="https://activity-graph.herokuapp.com/graph?username=notpunchnox"><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true" /><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true" /><br /><br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" /><br />
 </div>
 
 
@@ -31,23 +47,6 @@
 </p>
 
 
----
-
-<div align="center">
-    <h3>My projects in development...</h3>
-    <h4>xelies ( application de communication https://github.com.xelies )</h4>
-    <img src="https://discordapp.com/api/guilds/848515844140040212/widget.png?style=banner2" alt="Discord Banner 2" /><br />
-</div>
-
----
-
-<div align="center">
-    <h3>Other</h3>
-    <h4>Website: sltcv.com; punchnox.herokuapp.com</h4>
-    <h4>My Discord server: </h4>
-    <img src="https://discordapp.com/api/guilds/805416845037273098/widget.png?style=banner2" alt="Discord Banner 2" /><br />
-</div><br /><br />
-
-
-
+```js
 BTC: bc1qxc4h7g0humscvm0gzqp576mwgrpst2wcs8cpwf
+```
