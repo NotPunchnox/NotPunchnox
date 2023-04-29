@@ -8,6 +8,7 @@
 <h1 align="center">LANGUAGE</h1>
 
 <p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"></code>&nbsp; |
@@ -40,7 +41,8 @@
 
 <h1 align="center">LEARN</h1>
 <p align="center">
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;
+    <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png"></code>&nbsp;
+  <code><img height="25" src="https://johnny-five.io/img/j5-logo.svg"></code>&nbsp;
 </p>
 
 
