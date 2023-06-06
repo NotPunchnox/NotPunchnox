@@ -39,10 +39,16 @@
     <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>&nbsp;
 </p>
 
-<h1 align="center">LEARN</h1>
+<h1 align="center">OTHER</h1>
 <p align="center">
     <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png"></code>&nbsp;
+</p>
+
+<h1 align="center">LEARN</h1>
+<p align="center">
   <code><img height="25" src="https://johnny-five.io/img/j5-logo.svg"></code>&nbsp;
+   <code><img height="25" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Autodesk_23627.png"></code>&nbsp;
+   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png"></code>&nbsp;
 </p>
 
 
