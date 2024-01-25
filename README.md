@@ -4,7 +4,7 @@
 Je suis un simple étudiant, le développement et la robotique sont mes passions depuis des années maintenant.
 
 
-*Je tiens à préciser que je ne suis pas un développeur pro ( je suis en plomberie ) j'en fais seulement de mon temps libre et depuis 5 ans maintenant, ( même si l'objectif serait de le devenir )*
+*Je tiens à préciser que je ne suis pas un développeur pro ( je suis en plomberie ) j'en fais seulement de mon temps libre et depuis 6 ans maintenant, ( même si l'objectif serait de le devenir )*
 
 # Compétences
 <h2 align="center">Langages</h2>
