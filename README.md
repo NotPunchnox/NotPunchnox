@@ -17,6 +17,8 @@ Je suis un simple étudiant, le développement et la robotique sont mes passions
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&nbsp;
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png"></code>&nbsp;
+  <code><img height="25" src="https://imgs.search.brave.com/u83zgPaxYxkGaK1WIFN0F4exm74kdThjIGMgMGkEAZ8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pc29j/cHAub3JnL2ZpbGVz/L2ltZy9jcHBfbG9n/by5wbmc"></code>&nbsp;
 </p>
 
 <h2 align="center">Frameworks</h2>
@@ -43,7 +45,6 @@ Je suis un simple étudiant, le développement et la robotique sont mes passions
 <h2 align="center">Autres</h2>
 <p align="center">
     <code><img height="25" src="https://imgs.search.brave.com/63PQrigqH8fXf6C5lU4oESx4aNbe4fdxJcGfpo_GLKg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzY0NzYwMDY5/ZTkzMDg0NjQ2Yzll/ZTQwNS82NDc2MDA2/OWU5MzA4NDY0NmM5/ZWU0MWNfbG9nby1m/aWdtYS1iYWNrZ3Jv/dW5kLnN2Zw.svg"></code>&nbsp;
-    <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png"></code>&nbsp;
     <code><img height="25" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Autodesk_23627.png"></code>&nbsp;
     <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png"></code>&nbsp;
     <code><img height="25" src="https://imgs.search.brave.com/NixygOCIyEVU9zC6sOA8mgURTojY463_hxsTsJD1_fo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5iaW12aXNpb24u/ZXUvQ29udGVudC9p/bWFnZXMvbG9nb190/b3Auc3Zn.svg"></code>&nbsp;
