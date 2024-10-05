@@ -38,7 +38,7 @@ Je suis un simple étudiant, le développement et la robotique sont mes passions
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&nbsp; |
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>&nbsp; |
-    <code><img height="25" src="https://imgs.search.brave.com/DIgZ0Xabu6jzxMdx0ge3Rda6arDNpHjuLVJhF-R5Hss/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzkxL0VsZWN0cm9u/X1NvZnR3YXJlX0Zy/YW1ld29ya19Mb2dv/LnN2Zw.svg"></code>&nbsp; |
+    <code><img height="25" src="https://imgs.search.brave.com/o2KfgiyLIAHVHlC8yrS88DN1mR4cmaLZgrj0Cywl29s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzk2L2Zp/Z21hX2xvZ29faWNv/bl8xNzAxNTcucG5n"></code>&nbsp; |
     <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>&nbsp;
 </p>
 
