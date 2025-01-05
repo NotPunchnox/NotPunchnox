@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Je suis étudiant en informatique et passionné par la programmation et la robotique, depuis plusieurs années.
+Je suis étudiant en informatique, passionné par la programmation et la robotique depuis plusieurs années.
 J'aime créer et innover, ma première ambition est de créer une entreprise dans l'innovation technologique !
 
 ---
