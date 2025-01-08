@@ -3,7 +3,10 @@
 Je suis étudiant en informatique, passionné par la programmation et la robotique depuis plusieurs années.
 J'aime créer et innover, ma première ambition est de créer une entreprise dans l'innovation technologique !
 
+Actuellement je m'intéresse plus particulièrement au DeepLearning et l'IA en général, son optimisation et son intégration dans la robotique, mes projets en lien avec ce domaine son [ci-dessous](#projects)
+
 ---
+<div id="projects"></div>
 
 ## 🔧 Projets en cours
 
@@ -11,6 +14,8 @@ Voici quelques-uns des projets sur lesquels je travaille actuellement :
 
 - **[Aash](https://github.com/notpunchnox/hexa)** : Un robot hexapode intégrant des modèles customisé d'intelligence artificielle.
 - **[rkllama](https://github.com/notpunchnox/rkllama)** : Un logiciel inspiré d'Ollama, optimisé pour les processeurs NPU ( Rockchip ).
+- **[AI](https://huggingface.co/punchnox/)** : Création d'intelligence artificielle à faible consommation ( plus précisément la création de datasets et modèles LLM )
+
 </br>
 
 *_Quelques images:_*
