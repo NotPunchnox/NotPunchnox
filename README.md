@@ -29,7 +29,9 @@ Voici quelques-uns des projets sur lesquels je travaille actuellement :
 ---
 
 ## 🌐 Mes réseaux
-<table> <tr> <td><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" height="25" /></td> <td><strong>Hugging Face</strong></td> <td><a href="https://huggingface.co/punchnox" target="_blank">punchnox</a></td> </tr> <tr> <td><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="25" /></td> <td><strong>YouTube</strong></td> <td><a href="https://www.youtube.com/@punchnox5827" target="_blank">punchnox</a></td> </tr> <tr> <td><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="25" /></td> <td><strong>Discord</strong></td> <td>punchnox</td> </tr> </table>
+<table> <tr> <td><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" height="25" /></td> <td><strong>Hugging Face</strong></td> <td><a href="https://huggingface.co/punchnox" target="_blank">punchnox</a></td> </tr> <tr> <td><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="25" /></td> <td><strong>YouTube</strong></td> <td><a href="https://www.youtube.com/@punchnox5827" target="_blank">punchnox</a></td> </tr> <tr> <td><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="25" /></td> <td><strong>Discord</strong></td> <td>punchnox</td> </tr>  </table>
+
+☕ Me soutenir: [Buy me a coffee](https://buymeacoffee.com/notpunchnox)
 
 ---
 
