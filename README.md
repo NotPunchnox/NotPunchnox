@@ -1,9 +1,9 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 Je suis étudiant en informatique, passionné par la programmation et la robotique depuis plusieurs années.
-J'aime créer et innover, ma première ambition est de créer une entreprise dans l'innovation technologique !
+J'aime créer et innover, ma première ambition est de partir dans la recherche !
 
-Actuellement je m'intéresse plus particulièrement au DeepLearning et l'IA en général, son optimisation et son intégration dans la robotique, mes projets en lien avec ce domaine son [ci-dessous](#projects)
+Actuellement je m'intéresse plus particulièrement au DeepLearning et l'IA en général, son optimisation et son intégration dans la robotique & l'électronique embarquée, mes projets en lien avec ce domaine son [ci-dessous](#projects)
 
 ---
 <div id="projects"></div>
